@@ -1,2 +1,2 @@
-# ctcss
-CTCSS Encoder using Tiny11
+# ctcss-attiny
+ctcss-attiny
